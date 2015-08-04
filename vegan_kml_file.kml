@@ -1,298 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2"  xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2"    
-     xmlns:atom="http://www.w3.org/2005/Atom">
-    <Document>
-        <name>veganMap</name>
-        
-                                    
-        <description></description>
-        <visibility>1</visibility>
-        <open>1</open>
-        
- 
-                
-        <Folder>
-            <name>Waypoints</name>
-            <description>A list of waypoints</description>
-            <visibility>1</visibility>
-            <open>0</open>
-                                                                                
-            
-            <Placemark>
-                <name>Common Sense</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                
-                <description>
-                     - Description</description>       
-                <LookAt>
-                    <longitude>6.0852198</longitude>
-                    <latitude>50.7760618</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        6.0852198,50.7760618                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
-                <name>Pfannenzauber </name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                
-                <description>
-                     - Description</description>       
-                <LookAt>
-                    <longitude>6.091059</longitude>
-                    <latitude>50.7736429</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        6.091059,50.7736429                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
-                <name>IM SPINNERHOF </name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                
-                <description>
-                     - Description</description>       
-                <LookAt>
-                    <longitude>8.14318</longitude>
-                    <latitude>48.61514</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        8.14318,48.61514                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
-                <name>Restaurant Vivendi</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                
-                <description>
-                     - Description</description>       
-                <LookAt>
-                    <longitude>7.0075629</longitude>
-                    <latitude>52.0755018</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        7.0075629,52.0755018                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
-                <name>Zallis Naturkost CafÃ©</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                
-                <description>
-                     - Description</description>       
-                <LookAt>
-                    <longitude>12.96034</longitude>
-                    <latitude>47.81332</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        12.96034,47.81332                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
-                <name>biofrieda</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                
-                <description>
-                     - Description</description>       
-                <LookAt>
-                    <longitude>12.12461</longitude>
-                    <latitude>54.08463</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        12.12461,54.08463                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
-                <name>Bodega de Cervantes</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                
-                <description>
-                     - Description</description>       
-                <LookAt>
-                    <longitude>12.1201362</longitude>
-                    <latitude>54.0881586</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        12.1201362,54.0881586                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
-                <name>el-waleed</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                
-                <description>
-                     - Description</description>       
-                <LookAt>
-                    <longitude>12.120961</longitude>
-                    <latitude>54.087948</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        12.120961,54.087948                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
-                <name>Heumond</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                
-                <description>
-                     - Description</description>       
-                <LookAt>
-                    <longitude>12.136039</longitude>
-                    <latitude>54.085931</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        12.136039,54.085931                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
-                <name>Holy Pizza</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                
-                <description>
-                     - Description</description>       
-                <LookAt>
-                    <longitude>12.119983</longitude>
-                    <latitude>54.0865893</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        12.119983,54.0865893                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
-                <name>Vegangster</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                
-                <description>
-                     - Description</description>       
-                <LookAt>
-                    <longitude>12.11296</longitude>
-                    <latitude>54.08781</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        12.11296,54.08781                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                                                                        
-            
-            <Placemark>
-                <name>GrÃ¼ne KombÃ¼se</name>                      
-                <visibility>1</visibility>            
-                <open>0</open>                        
-                                                
-                <description>
-                     - Description</description>       
-                <LookAt>
-                    <longitude>12.1435771</longitude>
-                    <latitude>54.0892043</latitude>
-                    <range>500</range>
-                    <tilt>45</tilt>
-                    <heading>0</heading>
-                </LookAt>
-                <Point>
-                    <coordinates>
-                        12.1435771,54.0892043                        
-                    </coordinates>
-                </Point>
-            </Placemark>
-                            
-        </Folder>
-        
-                
-                
-        <LookAt>
-            <longitude>9.5227799</longitude>            
-            <latitude>50.95126215</latitude>             
-            <altitude>0</altitude>               
-            <heading>0</heading>               
-            <tilt>45</tilt>
-            <range>393008</range>                    
-            <altitudeMode>clampToGround</altitudeMode> 
-        </LookAt>
-    </Document>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+
+    <Placemark>
+      <name>Vegangster</name>
+      <description>
+        <![CDATA[
+          <h1>first full vegan fast food place</h1>
+          <p>address: Waldemarstraße 12, 18057 Rostock</p>
+		  <p>First include: 4.8.2015 from github user kebechsenuef</p>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>12.11296,54.08781</coordinates>
+      </Point>
+    </Placemark>	
+
+    <Placemark>
+      <name>biofrieda</name>
+      <description>
+        <![CDATA[
+          <h1>shop, coffee bar</h1>
+          <p>address: Stampfmüllerstraße 9, 18057 Rostock</p>
+		  <p>First include: 4.8.2015 from github user kebechsenuef</p>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>12.12461,54.08463</coordinates>
+      </Point>
+    </Placemark>	
+
+    <Placemark>
+      <name>Bodega de Cervantes</name>
+      <description>
+        <![CDATA[
+          <h1>spanish restaurant with vegan tapas</h1>
+          <p>address: Leonhardstraße 21 A, 18057 Rostock</p>
+		  <p>First include: 4.8.2015 from github user kebechsenuef</p>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>12.1201362,54.0881586</coordinates>
+      </Point>
+    </Placemark>	
+	
+    <Placemark>
+      <name>el-waleed</name>
+      <description>
+        <![CDATA[
+          <h1>vegan fast food</h1>
+          <p>address: Barnstorfer Weg 1, 18057 Rostock</p>
+		  <p>First include: 4.8.2015 from github user kebechsenuef</p>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>12.120961,54.087948</coordinates>
+      </Point>
+    </Placemark>	
+	
+    <Placemark>
+      <name>Holy Pizza</name>
+      <description>
+        <![CDATA[
+          <h1>vegan Pizza</h1>
+          <p>address: Waldemarstr. 21, 18057 Rostock</p>
+		  <p>First include: 4.8.2015 from github user kebechsenuef</p>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>12.119983,54.0865893</coordinates>
+      </Point>
+    </Placemark>	
+	
+    <Placemark>
+      <name>Grüne Kombüse</name>
+      <description>
+        <![CDATA[
+          <h1>first bull bio vegan restaurant in rostock</h1>
+          <p>address: Grubenstr. 47, 18057 Rostock</p>
+		  <p>First include: 4.8.2015 from github user kebechsenuef</p>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>12.1435771,54.0892043</coordinates>
+      </Point>
+    </Placemark>		
+	
+	
+  </Document>
 </kml>
