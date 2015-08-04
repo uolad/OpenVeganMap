@@ -7,7 +7,7 @@
 	<name>NAME OF VEG* POINT</name>
 	<description>
 		<![CDATA[
-		  <h1>SHORT DESCRIPTION WHAT KIND OF THINGS COULD BE INTERESTING, E.G.: PIZZA, FASTFOOD...</h1>
+		  <h1>SHORT DESCRIPTION IN ENGLISH WHAT KIND OF THINGS COULD BE INTERESTING, E.G.: PIZZA, FASTFOOD...</h1>
 		  <h2>NAME OF VEG* POINT</h2>
 		  <p>address: STREET NUMBER, ZIP TOWN</p>
 		  <p>website: WEBSITE IF AVAILABLE; IF NOT: N/A</p>
@@ -121,6 +121,21 @@
       </Point>
     </Placemark>		
 	
+    <Placemark>
+      <name>kAffé dAdA</name>
+      <description>
+        <![CDATA[
+          <h1>mixed veg* things to eat, inkluding burgers and main meals</h1>
+          <h2>Grüne Kombüse</h2>
+		  <p>address: Rote-Löwen-Straße 11, 93047 Regensburg </p>
+		  <p>website: http://kaffe-dada.com</p>
+		  <h5>First include: 5.8.2015 from github user kebechsenuef</h5>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>49.020316,12.089335</coordinates>
+      </Point>
+    </Placemark>	
 	
   </Document>
 </kml>
