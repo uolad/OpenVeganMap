@@ -1,4 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+	open vegan map, by @molenkopf
+	please consider the following format
+	
+	    <Placemark>
+      <name>NAME OF VEG* POINT</name>
+      <description>
+        <![CDATA[
+          <h1>SHORT DESCRIPTION WHAT KIND OF THINGS COULD BE INTERESTING, E.G.: PIZZA, FASTFOOD...</h1>
+          <h2>NAME OF VEG* POINT</h2>
+		  <p>address: STREET NUMBER, ZIP TOWN</p>
+		  <p>First include: DAY.MONTH.YEAR from github user YOURGITHUB PROFILE NAME</p>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>COORDINATES SEPERATED WITH COMMA</coordinates>
+      </Point>
+    </Placemark>
+	
+	
+-->
+
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
 
