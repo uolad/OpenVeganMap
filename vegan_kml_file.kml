@@ -3,20 +3,21 @@
 	open vegan map, by @molenkopf
 	please consider the following format
 	
-	    <Placemark>
-      <name>NAME OF VEG* POINT</name>
-      <description>
-        <![CDATA[
-          <h1>SHORT DESCRIPTION WHAT KIND OF THINGS COULD BE INTERESTING, E.G.: PIZZA, FASTFOOD...</h1>
-          <h2>NAME OF VEG* POINT</h2>
+<Placemark>
+	<name>NAME OF VEG* POINT</name>
+	<description>
+		<![CDATA[
+		  <h1>SHORT DESCRIPTION WHAT KIND OF THINGS COULD BE INTERESTING, E.G.: PIZZA, FASTFOOD...</h1>
+		  <h2>NAME OF VEG* POINT</h2>
 		  <p>address: STREET NUMBER, ZIP TOWN</p>
-		  <p>First include: DAY.MONTH.YEAR from github user YOURGITHUB PROFILE NAME</p>
-        ]]>
-      </description>
-      <Point>
-        <coordinates>COORDINATES SEPERATED WITH COMMA</coordinates>
-      </Point>
-    </Placemark>
+		  <h4>WEBSITE IF AVAILABLE; IF NOT: N/A</h4>
+		  <h5>First include: DAY.MONTH.YEAR from github user YOURGITHUB PROFILE NAME</h5>
+		]]>
+	</description>
+	<Point>
+		<coordinates>COORDINATES SEPERATED WITH COMMA</coordinates>
+	</Point>
+</Placemark>
 	
 	
 -->
@@ -31,7 +32,8 @@
           <h1>first full vegan fast food place</h1>
           <h2>Vegangster</h2>
 		  <p>address: Waldemarstraße 12, 18057 Rostock</p>
-		  <p>First include: 4.8.2015 from github user kebechsenuef</p>
+		  <h4>https://de-de.facebook.com/vegangsterrostock</h4>
+		  <h5>First include: 4.8.2015 from github user kebechsenuef</h5>
         ]]>
       </description>
       <Point>
@@ -46,7 +48,8 @@
           <h1>shop, coffee bar</h1>
 		  <h2>biofrieda</h2>
           <p>address: Stampfmüllerstraße 9, 18057 Rostock</p>
-		  <p>First include: 4.8.2015 from github user kebechsenuef</p>
+		  <h4>http://www.biofrieda.de/</h4>
+		  <h5>First include: 4.8.2015 from github user kebechsenuef</h5>
         ]]>
       </description>
       <Point>
@@ -61,7 +64,8 @@
           <h1>spanish restaurant with vegan tapas</h1>
           <h2>Bodega de Cervantes</h2>
 		  <p>address: Leonhardstraße 21 A, 18057 Rostock</p>
-		  <p>First include: 4.8.2015 from github user kebechsenuef</p>
+		  <h4>http://www.bodega-de-cervantes.de/</h4>
+		  <h5>First include: 4.8.2015 from github user kebechsenuef</h5>
         ]]>
       </description>
       <Point>
@@ -76,7 +80,8 @@
           <h1>vegan fast food</h1>
           <h2>el-waleed</h2>
 		  <p>address: Barnstorfer Weg 1, 18057 Rostock</p>
-		  <p>First include: 4.8.2015 from github user kebechsenuef</p>
+		  <h4>http://www.el-waleed.de/</h4>
+		  <h5>First include: 4.8.2015 from github user kebechsenuef</h5>
         ]]>
       </description>
       <Point>
@@ -91,7 +96,8 @@
           <h1>vegan Pizza</h1>
           <h2>Holy Pizza</h2>
 		  <p>address: Waldemarstr. 21, 18057 Rostock</p>
-		  <p>First include: 4.8.2015 from github user kebechsenuef</p>
+		  <h4>https://www.facebook.com/HolyPizza</h4>
+		  <h5>First include: 4.8.2015 from github user kebechsenuef</h5>
         ]]>
       </description>
       <Point>
@@ -106,7 +112,8 @@
           <h1>first bull bio vegan restaurant in rostock</h1>
           <h2>Grüne Kombüse</h2>
 		  <p>address: Grubenstr. 47, 18057 Rostock</p>
-		  <p>First include: 4.8.2015 from github user kebechsenuef</p>
+		  <h4>https://www.facebook.com/gruenekombuese</h4>
+		  <h5>First include: 4.8.2015 from github user kebechsenuef</h5>
         ]]>
       </description>
       <Point>
