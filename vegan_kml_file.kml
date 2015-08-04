@@ -7,7 +7,8 @@
       <description>
         <![CDATA[
           <h1>first full vegan fast food place</h1>
-          <p>address: Waldemarstraße 12, 18057 Rostock</p>
+          <h2>Vegangster</h2>
+		  <p>address: WaldemarstraÃŸe 12, 18057 Rostock</p>
 		  <p>First include: 4.8.2015 from github user kebechsenuef</p>
         ]]>
       </description>
@@ -21,7 +22,8 @@
       <description>
         <![CDATA[
           <h1>shop, coffee bar</h1>
-          <p>address: Stampfmüllerstraße 9, 18057 Rostock</p>
+		  <h2>biofrieda</h2>
+          <p>address: StampfmÃ¼llerstraÃŸe 9, 18057 Rostock</p>
 		  <p>First include: 4.8.2015 from github user kebechsenuef</p>
         ]]>
       </description>
@@ -35,7 +37,8 @@
       <description>
         <![CDATA[
           <h1>spanish restaurant with vegan tapas</h1>
-          <p>address: Leonhardstraße 21 A, 18057 Rostock</p>
+          <h2>Bodega de Cervantes</h2>
+		  <p>address: LeonhardstraÃŸe 21 A, 18057 Rostock</p>
 		  <p>First include: 4.8.2015 from github user kebechsenuef</p>
         ]]>
       </description>
@@ -49,7 +52,8 @@
       <description>
         <![CDATA[
           <h1>vegan fast food</h1>
-          <p>address: Barnstorfer Weg 1, 18057 Rostock</p>
+          <h2>el-waleed</h2>
+		  <p>address: Barnstorfer Weg 1, 18057 Rostock</p>
 		  <p>First include: 4.8.2015 from github user kebechsenuef</p>
         ]]>
       </description>
@@ -63,7 +67,8 @@
       <description>
         <![CDATA[
           <h1>vegan Pizza</h1>
-          <p>address: Waldemarstr. 21, 18057 Rostock</p>
+          <h2>Holy Pizza</h2>
+		  <p>address: Waldemarstr. 21, 18057 Rostock</p>
 		  <p>First include: 4.8.2015 from github user kebechsenuef</p>
         ]]>
       </description>
@@ -73,11 +78,12 @@
     </Placemark>	
 	
     <Placemark>
-      <name>Grüne Kombüse</name>
+      <name>GrÃ¼ne KombÃ¼se</name>
       <description>
         <![CDATA[
           <h1>first bull bio vegan restaurant in rostock</h1>
-          <p>address: Grubenstr. 47, 18057 Rostock</p>
+          <h2>GrÃ¼ne KombÃ¼se</h2>
+		  <p>address: Grubenstr. 47, 18057 Rostock</p>
 		  <p>First include: 4.8.2015 from github user kebechsenuef</p>
         ]]>
       </description>
