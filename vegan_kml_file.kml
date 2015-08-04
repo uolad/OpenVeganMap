@@ -7,7 +7,7 @@
 	<name>NAME OF VEG* POINT</name>
 	<description>
 		<![CDATA[
-		  <h1>SHORT DESCRIPTION IN ENGLISH WHAT KIND OF THINGS COULD BE INTERESTING, E.G.: PIZZA, FASTFOOD...</h1>
+		  <h1>SHORT DESCRIPTION IN ENGLISH WHAT KIND OF THINGS COULD BE INTERESTING, E.G.: PIZZA, FASTFOOD...; MAX 100 CHARACTERS</h1>
 		  <h2>NAME OF VEG* POINT</h2>
 		  <p>address: STREET NUMBER, ZIP TOWN</p>
 		  <p>website: WEBSITE IF AVAILABLE; IF NOT: N/A</p>
@@ -125,7 +125,7 @@
       <name>kAffé dAdA</name>
       <description>
         <![CDATA[
-          <h1>mixed veg* things to eat, inkluding burgers and main meals</h1>
+          <h1>veg* fastfood + main meals</h1>
           <h2>kAffé dAdA</h2>
 		  <p>address: Rote-Löwen-Straße 11, 93047 Regensburg </p>
 		  <p>website: http://kaffe-dada.com</p>
@@ -137,5 +137,21 @@
       </Point>
     </Placemark>	
 	
-  </Document>
+    <Placemark>
+      <name>Parsifal Vejetaryen</name>
+      <description>
+        <![CDATA[
+          <h1>Restaurant & Cafe</h1>
+          <h2>Parsifal Vejetaryen Restaurant & Cafe</h2>
+		  <p>address: Kurabiye Sokak No 9/A Beyoglu, Istanbul</p>
+		  <p>website: https://www.facebook.com/pages/Parsifal-Vejetaryen-Restaurant-Cafe/97296706343</p>
+		  <h5>First include: 5.8.2015 from github user kebechsenuef</h5>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>28.9822144,41.036521</coordinates>
+      </Point>
+    </Placemark>	
+	
+	  </Document>
 </kml>
