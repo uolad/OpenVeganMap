@@ -169,5 +169,21 @@
 	</Point>
 </Placemark>	
 
+<Placemark>
+	<name>Heumond</name>
+	<description>
+		<![CDATA[
+		  <h1>Restaurant with vegan menues</h1>
+		  <h2>Heumond</h2>
+		  <p>address: Hermannstraße 36, 18055 Rostock</p>
+		  <p>website: http://www.heumond.de</p>
+		  <h5>First include: 05.08.2015 from github user uolad</h5>
+		]]>
+	</description>
+	<Point>
+		<coordinates>12.136039,54.085931</coordinates>
+	</Point>
+</Placemark>
+
 	  </Document>
 </kml>
