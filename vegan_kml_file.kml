@@ -151,7 +151,23 @@
       <Point>
         <coordinates>28.9822144,41.036521</coordinates>
       </Point>
-    </Placemark>	
-	
+    </Placemark>
+    
+<Placemark>
+	<name>IM SPINNERHOF</name>
+	<description>
+		<![CDATA[
+		  <h1>Hotel, Restaurant</h1>
+		  <h2>IM SPINNERHOF</h2>
+		  <p>address: Am Schloßberg 8, 77887 Sasbachwalden</p>
+		  <p>website: http://spinnerhof.de</p>
+		  <h5>First include: 05.08.2015 from github user uolad</h5>
+		]]>
+	</description>
+	<Point>
+		<coordinates>8.14318,48.61514</coordinates>
+	</Point>
+</Placemark>	
+
 	  </Document>
 </kml>
